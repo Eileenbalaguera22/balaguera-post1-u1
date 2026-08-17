@@ -2,7 +2,7 @@
 
 ## 1. Portada
 
-**Nombre:** Eieen Balaguera Rodríguez  
+**Nombre:** Eileen Balaguera Rodríguez  
 **Código:** 02240131036  
 **Curso:** Ingeniería de Sistemas  
 **Unidad:** Unidad 1: Fundamentos de Patrones de Diseño  
